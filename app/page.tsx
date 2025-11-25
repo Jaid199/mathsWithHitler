@@ -62,7 +62,7 @@ export default function HomePage() {
           </h1>
           <h2 className="text-4xl md:text-5xl font-bold text-gray-800 mb-6">
             learn mathematics with{" "}
-            <span className="text-orange-500 italic">fun</span>
+            <span className="text-orange-500 italic">Hitler</span>
           </h2>
           <p className="text-lg text-gray-600 mb-12">
             Free online gamified learning tool for 15 to 16 year olds.
