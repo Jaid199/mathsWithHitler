@@ -481,7 +481,7 @@ export default function TranslationQuizPage() {
               className={`px-8 py-3 rounded-full font-semibold transition-all ${
                 selectedAnswers[currentQuestion] === null &&
                 !(currentQuestion === 6 && selectedAnswers[6] !== null)
-                  ? "bg-gray-300 text-gray-500 cursor-not-allowed"
+                  ? "bg-gray-300 text-amber-900 text-gray-500 cursor-not-allowed"
                   : "bg-gradient-to-r from-orange-400 to-amber-400 text-gray-900 hover:shadow-lg"
               }`}
             >
