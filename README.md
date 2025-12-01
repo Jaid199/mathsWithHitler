@@ -2,6 +2,21 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Getting Started
 
+Installed extensions in VS code
+
+```bash
+Tailwind CSS IntelliSense
+ES7+ React/Redux/React-Native snippets
+ES7 React/Redux/GraphQL/React-Native snippets
+JavaScript and TypeScript Nightly
+```
+
+To install npm the pkg that
+
+```bash
+npm install
+```
+
 First, run the development server:
 
 ```bash
